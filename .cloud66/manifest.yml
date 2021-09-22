@@ -1,6 +1,6 @@
 prepress:
   configuration:
-    framework: hugo
+    framework: "hugo"
     framework_version: "0.88.1"
     build_command: "hugo"
     language: "golang"
